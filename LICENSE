@@ -1,0 +1,69 @@
+Visentrix Binary License — RTX Audio Visualizer
+================================================
+
+Copyright (c) 2026 Visentrix. All rights reserved.
+
+This license governs use of the RTX Audio Visualizer application
+binaries distributed through this repository's Releases page. Source
+code is not licensed under this document and is not publicly
+distributed.
+
+1. GRANT OF LICENSE
+
+   Visentrix grants you a non-exclusive, non-transferable license to
+   install and use the RTX Audio Visualizer binaries free of charge for
+   personal, educational, and commercial visualization purposes —
+   including live performance, streaming, recording, and broadcast.
+
+   You may create and share derivative visual content (recordings,
+   streams, performances) produced using the software.
+
+2. RESTRICTIONS
+
+   You may NOT:
+
+   - Redistribute, republish, repackage, or rehost the software or its
+     source code in any form
+   - Include the software in a product bundle, installer, package
+     manager, app store, or distribution service
+   - Sell, lease, rent, or sublicense the software or any derivative
+   - Decompile, disassemble, or reverse engineer the binaries, shader
+     bytecode, DSP algorithms, or internal pipelines, except where such
+     restriction is prohibited by applicable law
+   - Patch, inject, or modify the distributed executables, DLLs, shader
+     caches, or configuration files
+   - Remove or obscure copyright notices, license terms, or attribution
+
+3. DATA
+
+   The software captures and analyzes system audio locally on your
+   machine. No audio, analysis, or telemetry data is transmitted
+   unless you explicitly enable the optional local Ollama integration
+   (which talks only to an Ollama server you run yourself).
+
+4. UPDATES
+
+   This license applies to all releases of the software unless a
+   release is accompanied by a superseding license.
+
+5. DISCLAIMER OF WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+   MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+6. LIMITATION OF LIABILITY
+
+   IN NO EVENT SHALL VISENTRIX BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
+   SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING FROM USE OF THE
+   SOFTWARE.
+
+7. TERMINATION
+
+   This license terminates automatically upon breach. On termination
+   you must cease use and delete all copies.
+
+8. CONTACT
+
+   Licensing inquiries: GitHub issues on this repository, or the project
+   Discord (https://discord.gg/denat8G6ze).
